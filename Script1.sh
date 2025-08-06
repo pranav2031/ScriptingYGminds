@@ -4,3 +4,5 @@ echo "We are from batch-27 and learning DevOps"
 echo "We are learning AWS, Azure DevOps and DevSecOps"
 echo "I am learning in batch-29"
 echo "this is in pranav2612clear"
+echo "this is new batch
+echo "this is new batch-29"
